@@ -1,0 +1,7 @@
+This project includes software dependencies:
+
+- OpenCV (Apache License 2.0)
+- NumPy (BSD License)
+- MSS (MIT License)
+- Pillow (PIL) (PIL license, similar to MIT)
+- pywin32 (MIT License)
